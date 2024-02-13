@@ -6,5 +6,4 @@
 <?php include('productes.php') ?> 
 <?php include('serveis.php') ?>
 
-<?php include('styles.css') ?>
 <?php include('footer.php') ?>
