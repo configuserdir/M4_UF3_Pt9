@@ -43,8 +43,8 @@
 
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">info@eugeni.cat</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+34 631 323 969</span></i>
+        <i class="bi bi-envelope d-flex align-items-left"><a href="mailto:contact@example.com">info@eugeni.cat</a></i>
+        <i class="bi bi-phone d-flex align-items-left ms-4"><span>+34 631 323 969</span></i>
       </div>
 
       <nav id="navbar" class="navbar">
