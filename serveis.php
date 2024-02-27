@@ -27,14 +27,14 @@
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="bi bi-bar-chart"></i>
-              <h3><a href="">Afegir</a></h3>
+              <h3><a href="servei_afegeix.php">Afegir</a></h3>
               <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
             </div>
           </div>
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="bi bi-binoculars"></i>
-              <h3><a href="">Eliminar</a></h3>
+              <h3><a href="servei_esborrar.php">Eliminar</a></h3>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
